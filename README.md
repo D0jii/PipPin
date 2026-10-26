@@ -4,6 +4,8 @@ Pin any window as a small always-on-top box over your game. Watch Netflix or Pri
 
 No install and no dependencies. It's a single PowerShell script that uses what already ships with Windows 10/11.
 
+![Netflix pinned in the corner over a game with PipPin](docs/screenshot.jpg)
+
 ## Download and run
 
 1. Download `PipPin.zip` from the [latest release](../../releases/latest).
